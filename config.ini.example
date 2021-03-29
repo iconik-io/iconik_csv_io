@@ -1,0 +1,4 @@
+[Default]
+app_id=<your app id>
+auth_token=<your auth token>
+metadata_view=<your metadata view>
